@@ -1,0 +1,2 @@
+class DogTrails::Scraper
+end
